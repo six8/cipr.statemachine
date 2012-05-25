@@ -1,0 +1,9 @@
+{    
+    "name" : "cipr.statemachine",
+    "version" : "0.7",
+	"author" : "Mike Thornton <six8@devdetails.com>",
+	"dependencies" : {
+        "cipr.class" : "git://github.com/six8/cipr.class.git@0.8",
+        "stateful.lua" : "git://github.com/kikito/stateful.lua.git@v1.0.1"    
+    }
+}
